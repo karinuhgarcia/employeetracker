@@ -52,7 +52,7 @@ npm run start
 Follow the prompts to navigate the employee database using the arrow keys.
 
 ## Demo Video
-[Watch the walkthrough demo here](https://your-demo-link.com)
+[Watch the walkthrough demo here](https://app.screencastify.com/v3/watch/epvpwpnDYfmlcyF9WMw4)
 
 ## Features
 - View all departments
